@@ -1,0 +1,6 @@
+qiskit[visualization]==1.1.0
+jupyter==1.0.0
+qiskit-ibm-runtime==0.23.0
+python-dotenv==1.0.1
+qiskit-ibm-provider==0.11.0
+qiskit-serverless==0.12.0
